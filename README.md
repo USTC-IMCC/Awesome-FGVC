@@ -24,7 +24,7 @@ Jump To
 |:----------- |:----------:|:----------:|:----------:|:----------:|:----------:|
 | Explanation | Visual Attention | Bilinear Pooling | Self-Supervised Learning | Vision Transformer | Others |
 
-| Year      |  Venue | Paper Title | Code | Accuracy| Method |
+| Year      |  Venue | Paper Title | Link | Accuracy| Method |
 | :----: | :-----: | :-----------: | :------: | :------: |:------: |
 | 2020 |ECCV 2020 | Volumetric Transformer Networks | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_34)/[Code](https://github.com/seungryong/VTNs/)| 83.1% | VA |
 
