@@ -8,7 +8,8 @@ Jump To
 - [Awesome FGVC](#awesome-fgvc)
   - [Tutorials](#tutorials)
   - [Papers](#papers)
-    - [Type of Method and its Explanation](#type-of-method-and-its-explanation)
+    - [Type of Method](#type-of-method)
+    - [Paper List](#paper-list)
   - [Other Awesome lists](#other-awesome-lists)
 ---
 
@@ -18,11 +19,13 @@ Jump To
 - [南京理工大学教授魏秀参--图像细粒度识别综述](https://www.bilibili.com/video/BV1oU4y1g7my)
 ## Papers
 
-### Type of Method and its Explanation
+### Type of Method
 
-| Type        | `VA`       | `BP`       | `SS`       |  `ViT`     |  `OTS`     | 
-|:----------- |:----------:|:----------:|:----------:|:----------:|:----------:|
-| Explanation | Visual Attention | Bilinear Pooling | Self-Supervised Learning | Vision Transformer | Others |
+| Type        | `VA`       | `BP`       | `SS`       |  `ViT`     |  `SV`     |  `OTS`     | 
+|:----------- |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| Explanation | Visual Attention | Bilinear Pooling | Self-Supervised Learning | Vision Transformer | Survey | Others |
+
+### Paper List
 
 | Year      |  Venue | Paper Title | Link | Accuracy| Method |
 | :----: | :-----: | :-----------: | :------: | :------: |:------: |
