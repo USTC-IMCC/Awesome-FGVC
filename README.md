@@ -28,7 +28,8 @@ Jump To
 ### Paper List
 
 | Year      |  Venue | Paper Title | Link | Accuracy| Method |
-| :----: | :-----: | :-----------: | :------: | :------: |:------: |
+| :----: | :-----: | :-----------: | :------: | :------: | :------: |
+| 2022 | ECCV 2022 | Deep Ensemble Learning by Diverse Knowledge Distillation for Fine-Grained Object Classification | [Paper](https://link.springer.com/10.1007/978-3-031-20083-0_30) | 69.81% | `OTS` |
 | 2020 |ECCV 2020 | Volumetric Transformer Networks | [Paper](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_34)/[Code](https://github.com/seungryong/VTNs/)| 83.1% | `VA` |
 
 ## Other Awesome lists
